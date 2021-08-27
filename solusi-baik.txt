@@ -1,0 +1,3 @@
+ini merupakan file kedua dari proses belajar penggunaan github
+- membuat file
+- tahu perihal repo/folder
