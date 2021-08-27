@@ -1,2 +1,2 @@
-# solusi-baik-pengenalan
+# solusi-baik
 memberikan informasi yang bermanfaat bagi communitas
